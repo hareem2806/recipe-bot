@@ -17,3 +17,15 @@ It supports context-aware conversations (remembers the last 5 messages) and form
 
 
 
+📊 Dataset
+
+This project uses the Healthy Recipes Dataset from Kaggle:
+👉 Healthy Recipes Dataset on Kaggle[https://www.kaggle.com/datasets/thedevastator/better-recipes-for-a-better-life]
+
+Data Preparation
+
+Cleaned and preprocessed the dataset in a Jupyter Notebook
+
+Selected relevant columns such as recipe_name, category, subcategory, total_time, servings, ingredients, directions, nutrition, and yield.
+
+Saved the cleaned data as a CSV for use in the chatbot.
